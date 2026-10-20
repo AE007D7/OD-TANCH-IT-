@@ -19,4 +19,8 @@
 ## Galerie
 - [Projets](/projets.html) : inspirations IA et projets publiés par l’entreprise.
 - Les inspirations initiales ne sont pas des chantiers réalisés.
-- Le site est actuellement privé au propriétaire ; publication et photos sont conservées dans le stockage du site.
+- La galerie utilise le stockage privé du site ; la publication requiert le code administrateur.
+
+## Assistant
+- Assistant virtuel en français. Réponses IA via Vercel AI Gateway lorsque le service est activé ; sinon réponses guidées explicitement signalées.
+- Ne peut pas confirmer de devis, intervention, qualification ou coordonnées non vérifiées.
