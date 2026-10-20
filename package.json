@@ -1,0 +1,1 @@
+{"name":"od-etancheite","version":"1.0.0","private":true,"type":"module","engines":{"node":"24.x"},"scripts":{"build":"node scripts/build.mjs","test":"node scripts/check-api.mjs"},"dependencies":{"@vercel/blob":"^2.8.2","ai":"^7.0.146"}}
